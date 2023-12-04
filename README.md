@@ -1,7 +1,7 @@
 # Gateway_Microservice
 
 
-![Capture d’écran 2022-07-16 à 4 59 21 PM](https://user-images.githubusercontent.com/102439475/179474759-3288c9fd-979f-4a37-895c-8fc3d90bd9de.png)
+
 ![Capture d’écran 2022-07-16 à 5 00 21 PM](https://user-images.githubusercontent.com/102439475/179474765-078f063d-b28f-4a79-90e3-6ce141e03782.png)
 ![Capture d’écran 2022-07-16 à 5 01 03 PM](https://user-images.githubusercontent.com/102439475/179474771-15671a9e-4ba2-4281-9c56-b8e7c04daac6.png)
 ![Capture d’écran 2022-07-16 à 5 04 33 PM](https://user-images.githubusercontent.com/102439475/179474774-3693b452-0532-4ef0-9d66-0f1fbf40becc.png)
