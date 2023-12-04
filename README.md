@@ -1,14 +1,12 @@
 # Gateway_Microservice
 
 
+![sp](https://github.com/Sunsi13/spring/assets/102439475/70d4c6e5-66cc-4f28-999e-315947f35fe5)
 
-![Capture d’écran 2022-07-16 à 5 00 21 PM](https://user-images.githubusercontent.com/102439475/179474765-078f063d-b28f-4a79-90e3-6ce141e03782.png)
-![Capture d’écran 2022-07-16 à 5 01 03 PM](https://user-images.githubusercontent.com/102439475/179474771-15671a9e-4ba2-4281-9c56-b8e7c04daac6.png)
-![Capture d’écran 2022-07-16 à 5 04 33 PM](https://user-images.githubusercontent.com/102439475/179474774-3693b452-0532-4ef0-9d66-0f1fbf40becc.png)
-![Capture d’écran 2022-07-16 à 5 25 59 PM](https://user-images.githubusercontent.com/102439475/179474775-4f3eddca-8f58-4e48-b4e9-fad86c775524.png)
-![Capture d’écran 2022-07-17 à 9 42 54 AM](https://user-images.githubusercontent.com/102439475/179474778-48c48c7f-7889-4522-a3fe-c75bde49ba79.png)
-![Capture d’écran 2022-07-17 à 10 00 25 AM](https://user-images.githubusercontent.com/102439475/179474783-853311ed-f5a7-4696-a38a-975e2b9dbf1c.png)
-![Capture d’écran 2022-07-17 à 10 30 54 AM](https://user-images.githubusercontent.com/102439475/179474786-de565429-9eb2-4c40-98e9-230bb433f5c1.png)
-![Capture d’écran 2022-07-17 à 10 34 30 AM](https://user-images.githubusercontent.com/102439475/179474788-3f5a9c7a-514f-471b-a4e0-321eb319d338.png)
-![Capture d’écran 2022-07-17 à 10 45 23 AM](https://user-images.githubusercontent.com/102439475/179474791-d2daf472-d3fb-4c0e-936d-34b732c58835.png)
-![Capture d’écran 2022-07-17 à 10 46 13 AM](https://user-images.githubusercontent.com/102439475/179474794-80f0d630-aa5d-4f60-af92-1b9042392a74.png)
+
+![rp1](https://github.com/Sunsi13/spring/assets/102439475/491f1e31-f1f3-459d-b5f7-9962fb3a5e57)
+![rp2](https://github.com/Sunsi13/spring/assets/102439475/eedafd5d-e69f-4411-957f-ab72a127d828)
+![rp4](https://github.com/Sunsi13/spring/assets/102439475/38d76170-79a6-49be-8e8a-9cb25b523d2c)
+![rp5](https://github.com/Sunsi13/spring/assets/102439475/e0e0f441-9300-4461-9767-38531115f0b4)
+![rp7](https://github.com/Sunsi13/spring/assets/102439475/65e1d2db-b1e1-482c-a4cd-d2362e2bff22)
+![rp8](https://github.com/Sunsi13/spring/assets/102439475/eb1cd54c-f302-46c3-9b34-3b111f217846)
